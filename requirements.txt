@@ -1,0 +1,5 @@
+adk-python
+flask
+googlemaps
+firebase-admin
+# ...other dependencies...
