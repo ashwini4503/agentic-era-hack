@@ -1,3 +1,4 @@
+google-adk==1.9.0
 adk-python
 flask
 googlemaps
